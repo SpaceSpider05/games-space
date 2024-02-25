@@ -1,2 +1,2 @@
 # games-space
-ecommerce site gaming ( only html) { for beginner}
+e commerce web site gaming ( only html) { for beginner}
